@@ -48,3 +48,24 @@ https://ali.cb.id# birthday-2025
 ## 📫 تواصل
 - GitHub Issues
 - Email: alialkhtri3@gmail.com
+Web3 Wallet Toolkit
+
+An open-source toolkit to simplify wallet integrations for Web3 apps and Mini Apps.
+
+## Features
+- EIP-1193 compatible
+- Works with mobile wallets
+- Simple and clean API
+- Designed for Mini Apps
+
+## Use cases
+- Web3 dApps
+- Mini Apps
+- Wallet integrations
+
+## Status
+Early development – open for contributions.
+
+## Author
+Ali Alkhtri  
+Based in Yemen 🇾🇪
