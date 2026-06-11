@@ -1,90 +1,59 @@
+Onchain Proof Hub
 
-https://ali.cb.id# birthday-2025
-# 👋 علي الختري | Ali Alkhtri
-
-مطور Web3 أعمل على أدوات **Onchain** تركز على:
-- السيادة الرقمية
-- المدفوعات المشفرة
-- الهوية اللامركزية
-- حلول بدون بنوك
-
-🌍 Base / Ethereum  
-🧩 Open Source  
-🔐 No Custody • No Signatures
+A decentralized identity verification system for blockchain wallets.
 
 ---
 
-## 🚀 المشاريع الأساسية
-- **OnchainKit**  
-  أدوات Web3 لبناء تطبيقات مدفوعات وتكامل محافظ  
-  https://github.com/alialkhtri3-png/onchainkit
+🎯 Problem
 
-- **OnchainKit Demo**  
-  عرض عملي للمدفوعات المشفرة الحقيقية  
-  https://github.com/alialkhtri3-png/onchainkit-demo
-
-- **AliLegacy**  
-  تجربة Solidity مفتوحة المصدر للسيادة التقنية  
-  https://github.com/alialkhtri3-png/AliLegacy
-
-- **Web3 ID**  
-  صفحة هوية رقمية بسيطة  
-  https://github.com/alialkhtri3-png/web3-id
+There is no simple way to verify wallet ownership and identity across Web3 platforms.
 
 ---
 
-## 🆔 الهوية الرقمية
-🔗 https://ali.cb.id  
-📄 DID + روابط موثوقة
+💡 Solution
+
+Onchain Proof Hub generates cryptographic proofs that link wallets, identities, and actions.
 
 ---
 
-## 💸 الدعم
-أدعم المشاريع عبر التبرعات المشفرة فقط  
-(USDC / Base)
+⚙️ Features
+
+- Wallet signature verification
+- DID integration
+- Proof generation API
+- Onchain validation layer
 
 ---
 
-## 📫 تواصل
-- GitHub Issues
-- Email: alialkhtri3@gmail.com
-Web3 Wallet Toolkit
+🧪 Demo
 
-An open-source toolkit to simplify wallet integrations for Web3 apps and Mini Apps.
+https://your-demo-link.com
 
-## Features
-- EIP-1193 compatible
-- Works with mobile wallets
-- Simple and clean API
-- Designed for Mini Apps
+---
 
-## Use cases
-- Web3 dApps
-- Mini Apps
-- Wallet integrations
+🧱 Architecture
 
-## Status
-Early development – open for contributions.
+Frontend → API → Blockchain Contracts → Verification Engine
 
-## Author
-Ali Alkhtri  
-Based in Yemen 🇾🇪
-# 🎂 Birthday-2025
+---
 
-هذا ليس مشروع كود.  
-هذا توقيع.
+🚀 Getting Started
 
-عام 2025 يمثل نقطة زمنية في رحلتي،  
-لحظة وعي، وتحوّل، وتوثيق.
+git clone ...
+npm install
+npm run dev
 
-GitHub هنا ليس منصة برمجة فقط،  
-بل سجل مفتوح للهوية والذاكرة.
+---
 
-لا شيء يُشغَّل.
-لا شيء يُباع.
-ولا شيء يُشرح أكثر من اللازم.
+📌 Roadmap
 
-كنت هنا.  
-وهذا أثري.
+- [ ] Multi-chain support
+- [ ] ZK-proof integration
+- [ ] Reputation scoring
+- [ ] API for developers
 
-— Ali
+---
+
+📜 License
+
+MIT
